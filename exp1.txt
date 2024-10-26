@@ -6,12 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Student Registration Page</title>
     <style>
-        body {
-            background-color: #CCFFFF;
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            text-align: center;
-        }
+       
         h1 {
             color: black;
             margin-bottom: 20px;
