@@ -12,12 +12,7 @@
             margin-bottom: 20px;
         }
         
-        label {
-            display: block;
-            margin-top: 10px;
-            font-weight: bold;
-        }
-        input[type="text"], 
+         input[type="text"], 
         input[type="email"], 
         input[type="password"], 
         select, 
